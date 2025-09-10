@@ -173,7 +173,7 @@ const currentStatus = {
   📚 learning: "Advanced system design patterns",
   🎪 mood: "Absolutely vibing with code",
   ☕ coffeeLevel: "Dangerously high",
-  🎵 playlist: "Lo-fi beats + coding magic",
+  🎵 playlist: "Seedhe Maut | KRISNA | Talha Anjum | Jiski beat pasand aajae",
   🚀 nextGoal: "Revolutionize the tech world"
 };
 
@@ -188,10 +188,11 @@ console.log("Ready to change the world, one commit at a time! 🌍");
 
 ### 🌈 Find Me Across The Digital Universe
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pratham-potfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-israni-a6b672275/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prathemkumar4724)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk2732004@gmail.com)
+
 
 ### 🎭 The Vibe Continues...
 
